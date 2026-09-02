@@ -63,7 +63,7 @@ title(' Frequency Response of Butterworth IIR LPF');
 
 
 # MANUAL CALCULATION:
-<img width="972" height="1599" alt="image" src="https://github.com/user-attachments/assets/ec4021a4-d509-4708-8756-14eaf586796c" />
+<img width="896" height="1599" alt="image" src="https://github.com/user-attachments/assets/ec4021a4-d509-4708-8756-14eaf586796c" />
 
 
 
