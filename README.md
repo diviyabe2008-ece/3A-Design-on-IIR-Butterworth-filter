@@ -53,14 +53,23 @@ title(' Frequency Response of Butterworth IIR LPF');
 
 
 # OUTPUT: 
+
 <img width="753" height="692" alt="image" src="https://github.com/user-attachments/assets/cb457f41-65e8-44f3-a724-e94b3fd989ed" />
 
+
+
 <img width="636" height="937" alt="image" src="https://github.com/user-attachments/assets/7d5babe1-aa7d-4548-9de8-02ebf3e0d6cd" />
+
+
 
 # MANUAL CALCULATION:
 <img width="972" height="1599" alt="image" src="https://github.com/user-attachments/assets/ec4021a4-d509-4708-8756-14eaf586796c" />
 
+
+
 <img width="896" height="1598" alt="image" src="https://github.com/user-attachments/assets/4fae582d-3d7e-491f-9348-ea0488e89d85" />
+
+
 
 <img width="1600" height="1514" alt="image" src="https://github.com/user-attachments/assets/24e25a46-f99f-40ee-8bb6-f4f0cf7a7477" />
 
@@ -114,10 +123,16 @@ ylabel('Magnitude');
 # OUTPUT
 <img width="757" height="687" alt="image" src="https://github.com/user-attachments/assets/c57b2d67-d135-4f8e-8986-f1c250600cfa" />
 
+
+
 <img width="680" height="948" alt="image" src="https://github.com/user-attachments/assets/33a08465-2c31-487c-84ef-7fa4264e70c5" />
+
+
 
 # MANUAL CALCULATION :
 <img width="962" height="1600" alt="image" src="https://github.com/user-attachments/assets/6303c2bd-6816-42ea-8314-e3f345748de2" />
+
+
 
 <img width="914" height="1598" alt="image" src="https://github.com/user-attachments/assets/c01fea74-02a8-45ff-8e1c-2614d14989ba" />
 
